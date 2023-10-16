@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\buton tek cift oyunu 1575\buton tek cift oyunu 1575\bin\Debug\buton tek cift oyunu 1575.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\buton tek cift oyunu 1575\buton tek cift oyunu 1575\bin\Debug\buton tek cift oyunu 1575.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\buton tek cift oyunu 1575\buton tek cift oyunu 1575\bin\Debug\buton tek cift oyunu 1575.pdb
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\buton tek cift oyunu 1575\buton tek cift oyunu 1575\obj\Debug\buton tek cift oyunu 1575.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\buton tek cift oyunu 1575\buton tek cift oyunu 1575\obj\Debug\buton tek cift oyunu 1575.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\buton tek cift oyunu 1575\buton tek cift oyunu 1575\obj\Debug\buton_tek_cift_oyunu_1575.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\buton tek cift oyunu 1575\buton tek cift oyunu 1575\obj\Debug\buton_tek_cift_oyunu_1575.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\buton tek cift oyunu 1575\buton tek cift oyunu 1575\obj\Debug\buton tek cift oyunu 1575.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\buton tek cift oyunu 1575\buton tek cift oyunu 1575\obj\Debug\buton tek cift oyunu 1575.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\buton tek cift oyunu 1575\buton tek cift oyunu 1575\obj\Debug\buton tek cift oyunu 1575.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\buton tek cift oyunu 1575\buton tek cift oyunu 1575\obj\Debug\buton tek cift oyunu 1575.pdb
